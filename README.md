@@ -9,6 +9,6 @@
 
 
 
-- Abdullah-kwl/Numpy Tutorial is a ✨ special ✨ repository because its teach us how to use MatplotLib functionality
+- Abdullah-kwl/Matplotlib-Tutorial Tutorial is a ✨ special ✨ repository because its teach us how to use MatplotLib functionality
 
 
